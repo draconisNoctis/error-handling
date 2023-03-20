@@ -1,0 +1,11 @@
+{
+  "name": "error-handling",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "Mark Wecke <wecke@neoskop.de>",
+  "license": "MIT",
+  "packageManager": "yarn@3.5.0",
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  }
+}
